@@ -1,0 +1,22 @@
+{
+  "name": "demo28july",
+  "version": "1.0.0",
+  "description": "\"demo for docker\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanketBansod174/Demo28July.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanketBansod174/Demo28July/issues"
+  },
+  "homepage": "https://github.com/SanketBansod174/Demo28July#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
